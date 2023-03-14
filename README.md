@@ -2,6 +2,7 @@
 BUSINESS PROBLEM-1
 BACKGROUND: The Lending Club is a peer-to-peer lending site where members make loans to 
 each other. The site makes anonymized data on loans and borrowers publicly available. 
+
 BUSINESS PROBLEM:
 Using lending club loans data, the team would like to test below hypothesis on how different 
 factors effecing each other (Hint: You may leverage hypothesis testing using statistical tests)
@@ -24,6 +25,7 @@ designed a study to determine if there is variability between pricing experts. T
 pricing experts provide different price quotes? Two randomly selected pricing experts, Mary and 
 Barry, were asked to independently provide prices for twelve randomly selected orders. Each 
 expert provided one price for each of the twelve orders.
+
 BUSINESS PROBLEM: We would like to assess if there is any difference in the average 
 price quotes provided by Mary and Barry.
 
@@ -55,6 +57,7 @@ premises without permission), destroys property (e.g., punching a hole in a wall
 furniture through windows), is caught in possession of street drugs, or engages in assault
 against other residents or staff members. A teenager istemporarily removed from the facility
 when s/he is sent to jail or back to a psychiatric hospital
+
 BUSINESS PROBLEM: Determine what effect, if any, the reengineering effort had on the 
 incidence behavioral problems and staff turnover. i.e To determine if the reengineering effort
 changed the critical incidence rate. Isthere evidence that the critical incidence rate
@@ -79,6 +82,7 @@ As a result, two changes were made. Each project was broken down into smaller, d
 tasks, or jobs, and each job was assigned a priority. The project manager believes that this
 classification and prioritization system would speed the completion of high priority jobs, and
 thuslower overall project completion time
+
 BUSINESS PROBLEM: We will focus on the prioritization system. If the system is working, then
 high priority jobs, on average, should be completed more quickly than medium priority jobs,
 and medium priority jobs should be completed more quickly than low priority jobs. Use the
@@ -112,6 +116,7 @@ marketing campaigns.
 To this end, the promoters conducted surveys during a recent Film on the Rocks season.
 Questionnaires were handed out at the entrance. Volunteers walked through the crowd to
 remind people about the free soft drink given to those who returned the survey.
+
 BUSINESS PROBLEM: Use the survey resultsto addressthe following questions
  What isthe overall level of customer satisfaction?
  What factors are linked to satisfaction?
